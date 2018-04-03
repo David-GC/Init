@@ -1,0 +1,4 @@
+le nom et l'IP de l'appareil réseau qui font le lien entre mon réseau local et l'extérieur
+sont respectivement "nat-1" et "10.60.1.11" correspondant au second appareil réseau rencontré entre mon poste et le domaine.
+NAT signifie "translation d'adresse réseau". C'est ce qu'un routeur fait pour faire communiquer des machines disposant
+d'adresses IP non uniques avec le reste d'Internet.
