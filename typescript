@@ -1,486 +1,0 @@
-Script started on Wed Apr 11 17:44:37 2018
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscripts[1m/[0m[0m [?1l>[?2004l
-]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h005.sh[?1l>[?2004l
-]2;05.sh]1;05.shzsh: command not found: 05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05[?1l>[?2004l
-]2;./05]1;./05zsh: permission denied: ./05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat 05[?1l>[?2004l
-]2;cat 05]1;catecho 42
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../.  ...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsREADME.md  [1m[36mnetwork[39;49m[0m    [1m[36mscripts[39;49m[0m    [1m[36msystem[39;49m[0m     typescript
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hnnetwork[?1l>[?2004l
-]2;network]1;network[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat 04[?1l>[?2004l
-]2;cat 04]1;catroute get default | grep -i gateway
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../04.sh[?1l>[?2004l
-]2;./04.sh]1;./04.shzsh: no such file or directory: ./04.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;31m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../.  22.\ 2  ...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../04.sh5[3C   .shscripts/05.sh[?1l>[?2004l
-]2;./scripts/05.sh]1;./scripts/05.shzsh: no such file or directory: ./scripts/05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;31m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsscr
-[J[0mSCREEN_NO      [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript         [J[1;31mscripts[0m/     [J[A[0m[27m[24m[23Cscr[KSCREEN_NO[1m=[0m
-[J[7mSCREEN_NO    [0m  [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript         [J[1;31mscripts[0m/     [J[A[0m[27m[24m[23CSCREEN_NO[1m=[0m[K
-[7mSCREEN_NO    [0m  [7mSCREEN_NO    [0m  [A[0m[27m[24m[23CSCREEN_NO[1m=[0m[KIPT[1m=[0m  [0m 
-[15C[7mSCRIPT       [0m  SCREEN_NO      [A[0m[27m[24m[23CSCRIPT[1m=[0m[Kscreen[0m 
-[30C[7mscreen       [0m  [15CSCRIPT         [A[0m[27m[24m[23Cscreen[Kcapture
-[45C[7mscreencapture[0m  [30Cscreen         [A[0m[27m[24m[23Cscreencapture[K[10Dipt       
-[60C[7mscript       [0m  [45Cscreencapture  [A[0m[27m[24m[23Cscript[Ks[1m/[0m
-[75C[7mscripts/     [0m[60Cscript         [A[0m[27m[24m[23Cscripts[1m/[0m[K
-[J[A[31C[0m [?1l>[?2004l
-[J]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcchmod   c  cchmod ugo +x 05.sh[?1l>[?2004l
-]2;chmod ugo+x 05.sh]1;chmodchmod: 05.sh: No such file or directory
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh[?1l>[?2004l
-]2;./05.sh]1;./05.shzsh: no such file or directory: ./05.sh
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:43 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 01
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 02
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 03
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 04
--rw-r--r--  1 dguy-caz  2017_paris    7 Apr 11 17:51 05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hls -la./05.shls     chmod ugo+x 05.sh   [?1l>[?2004l
-]2;chmod ugo+x 05]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../05.sh   [?1l>[?2004l
-]2;./05]1;./0542
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hnnet
-[0mNetBootClientStatus      net-server5.16           net-snmp-cert            net-snmp-create-v3-user  netstat                  [1;31mnetwork[0m/               
-[Jnet-server               [Jnet-server5.18           [Jnet-snmp-config          [Jnetbiosd                 [Jnettop                   [Jnetworksetup           [J[A[A[0m[27m[24m[23Cnet[Kwo
-[J[A[28Crk[?1l>[?2004l
-[J]2;network]1;network[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../04[?1l>[?2004l
-]2;./04]1;./04zsh: permission denied: ./04
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;31m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./04  .  lsnetwork     n  lls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/network]1;../Init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssrc s scripts[?1l>[?2004l
-]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls01 02 03 04 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:43 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 01
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 02
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 03
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 04
--rwxr-xr-x  1 dguy-caz  2017_paris    7 Apr 11 17:51 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcchmod ugo+x 05 05  05  05  05 [?1l>[?2004l
-]2;chmod u 05]1;chmodchmod: Invalid file mode: u
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:43 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 01
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 02
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 03
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 04
--rwxr-xr-x  1 dguy-caz  2017_paris    7 Apr 11 17:51 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hls -lachmod u 05+ 05x 05[?1l>[?2004l
-]2;chmod u+x 05]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:43 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 01
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 02
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 03
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 04
--rwxr-xr-x  1 dguy-caz  2017_paris    7 Apr 11 17:51 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hls -la[2C Fdf      l  rrm 05[?1l>[?2004l
-]2;rm 05]1;rm[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../04 5[?1l>[?2004l
-]2;./05]1;./05zsh: permission denied: ./05
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcchmod x 05[?1l>[?2004l
-]2;chmod x 05]1;chmodchmod: Invalid file mode: x
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hchmod x 05ux 05+x 05[?1l>[?2004l
-]2;chmod u+x 05]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hchmod u+x 05        c  ../05[?1l>[?2004l
-]2;./05]1;./0542
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:57 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 01
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 02
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 03
--rw-r--r--  1 dguy-caz  2017_paris    0 Apr  3 20:59 04
--rwxr--r--  1 dguy-caz  2017_paris    7 Apr 11 17:57 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccmod a+x ./* 0*[?1l>[?2004l
-]2;cmod a+x ./0*]1;cmodzsh: command not found: cmod
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcmod a+x ./0*chmod a+x ./0*[12D[?1l>[?2004l
-]2;chmod a+x ./0*]1;chmod[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls -la[?1l>[?2004l
-]2;ls -G -la]1;lstotal 8
-drwxr-xr-x  7 dguy-caz  2017_paris  238 Apr 11 17:57 [1m[36m.[39;49m[0m
-drwxr-xr-x  8 dguy-caz  2017_paris  272 Apr 11 17:44 [1m[36m..[39;49m[0m
--rwxr-xr-x  1 dguy-caz  2017_paris    0 Apr  3 20:59 [31m01[39;49m[0m
--rwxr-xr-x  1 dguy-caz  2017_paris    0 Apr  3 20:59 [31m02[39;49m[0m
--rwxr-xr-x  1 dguy-caz  2017_paris    0 Apr  3 20:59 [31m03[39;49m[0m
--rwxr-xr-x  1 dguy-caz  2017_paris    0 Apr  3 20:59 [31m04[39;49m[0m
--rwxr-xr-x  1 dguy-caz  2017_paris    7 Apr 11 17:57 [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hppwd[?1l>[?2004l
-]2;pwd]1;pwd/Users/dguy-caz/42projects/Init/scripts
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[7m/Users/dguy-caz/42projects/Init/scripts[27m[39D[27m/[27mU[27ms[27me[27mr[27ms[27m/[27md[27mg[27mu[27my[27m-[27mc[27ma[27mz[27m/[27m4[27m2[27mp[27mr[27mo[27mj[27me[27mc[27mt[27ms[27m/[27mI[27mn[27mi[27mt[27m/[27ms[27mc[27mr[27mi[27mp[27mt[27ms[7m [27m[27m                                      /  ...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hppwd[?1l>[?2004l
-]2;pwd]1;pwd/Users/dguy-caz/42projects/Init
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccut --help[?1l>[?2004l
-]2;cut --help]1;cutcut: illegal option -- -
-usage: cut -b list [-n] [file ...]
-       cut -c list [file ...]
-       cut -f list [-s] [-d delim] [file ...]
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;31m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmman cut[?1l>[?2004l
-]2;man cut]1;man[?1049h[?1h=[m
-CUT(1)                    BSD General Commands Manual                   CUT(1)[m
-[m
-[1mNAME[0m[m
-     [1mcut[0m -- cut out selected portions of each line of a file[m
-[m
-[1mSYNOPSIS[0m[m
-     [1mcut[0m [1m-b[0m [4mlist[24m [[1m-n[0m] [[4mfile[24m [4m...[24m][m
-     [1mcut[0m [1m-c[0m [4mlist[24m [[4mfile[24m [4m...[24m][m
-     [1mcut[0m [1m-f[0m [4mlist[24m [[1m-d[0m [4mdelim[24m] [[1m-s[0m] [[4mfile[24m [4m...[24m][m
-[m
-[1mDESCRIPTION[0m[m
-     The [1mcut[0m utility cuts out selected portions of each line (as specified by [4mlist[24m) from each [4mfile[24m and writes them to the standard output.  If no [4mfile[24m[m
-     arguments are specified, or a file argument is a single dash (`[1m-[0m'), [1mcut[0m reads from the standard input.  The items specified by [4mlist[24m can be in[m
-     terms of column position or in terms of fields delimited by a special character.  Column numbering starts from 1.[m
-[m
-     The [4mlist[24m option argument is a comma or whitespace separated set of numbers and/or number ranges.  Number ranges consist of a number, a dash (`-'),[m
-     and a second number and select the fields or columns from the first number to the second, inclusive.  Numbers or number ranges may be preceded by[m
-     a dash, which selects all fields or columns from 1 to the last number.  Numbers or number ranges may be followed by a dash, which selects all[m
-     fields or columns from the last number to the end of the line.  Numbers and number ranges may be repeated, overlapping, and in any order.  If a[m
-     field or column is specified multiple times, it will appear only once in the output.  It is not an error to select fields or columns not present[m
-     in the input line.[m
-[m
-     The options are as follows:[m
-[m
-     [1m-b[0m [4mlist[24m[m
-             The [4mlist[24m specifies byte positions.[m
-[m
-     [1m-c[0m [4mlist[24m[m
-:[K[K [KESCESC[KOO[KBB[K             The [4mlist[24m specifies character positions.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-d[0m [4mdelim[24m[m
-:[K[K [KESCESC[KOO[KBB[K             Use [4mdelim[24m as the field delimiter character instead of the tab character.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-f[0m [4mlist[24m[m
-:[K[K [KESCESC[KOO[KBB[K             The [4mlist[24m specifies fields, separated in the input by the field delimiter character (see the [1m-d[0m option.)  Output fields are separated by a[m
-:[K[K [KESCESC[KOO[KBB[K             single occurrence of the field delimiter character.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-n[0m      Do not split multi-byte characters.  Characters will only be output if at least one byte is selected, and, after a prefix of zero or more[m
-:[K[K [KESCESC[KOO[KBB[K             unselected bytes, the rest of the bytes that form the character are selected.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-s[0m      Suppress lines with no field delimiter characters.  Unless specified, lines with no delimiters are passed through unmodified.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mENVIRONMENT[0m[m
-:[K[K [KESCESC[KOO[KBB[K     The LANG, LC_ALL and LC_CTYPE environment variables affect the execution of [1mcut[0m as described in environ(7).[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mEXIT[0m [1mSTATUS[0m[m
-:[K[K [KESCESC[KOO[KBB[K     The [1mcut[0m utility exits 0 on success, and >0 if an error occurs.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mEXAMPLES[0m[m
-:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hman cutcut --help[10Dpwd       .. pwdls  -lachmod a+x ./0*[14Dc[P[12C [13Dls -la       cmod a+x ./0*[13Dchmod a+x ./0*[14Dls -la        [8D   pwd.. pwdcut --help[10Dman cut          man cutcut --help[10Dman cut          man cutcut --help[10Dpwd       .. pwdls pwd.. pwdcut --help[10Dman cut          man cutcut --help[10Dpwd       .. pwdls  -lachmod a+x ./0*[14Dc[P[12C [13Dls -la       cmod a+x ./0*[13Dchmod a+x ./0*[14Dls -la        [8D   pwd.. pwdcut --help[10Dman cut          aata  ccat 045/etc/passwd[11Dn[2Cwork/* | \n[14D/[2Cc/passwd   [?1l>[?2004l
-]2;cat /etc/passwd]1;cat##
-# User Database
-# 
-# Note that this file is consulted directly only when the system is running
-# in single-user mode.  At other times this information is provided by
-# Open Directory.
-#
-# See the opendirectoryd(8) man page for additional information about
-# Open Directory.
-##
-nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
-root:*:0:0:System Administrator:/var/root:/bin/sh
-daemon:*:1:1:System Services:/var/root:/usr/bin/false
-_uucp:*:4:4:Unix to Unix Copy Protocol:/var/spool/uucp:/usr/sbin/uucico
-_taskgated:*:13:13:Task Gate Daemon:/var/empty:/usr/bin/false
-_networkd:*:24:24:Network Services:/var/empty:/usr/bin/false
-_installassistant:*:25:25:Install Assistant:/var/empty:/usr/bin/false
-_lp:*:26:26:Printing Services:/var/spool/cups:/usr/bin/false
-_postfix:*:27:27:Postfix Mail Server:/var/spool/postfix:/usr/bin/false
-_scsd:*:31:31:Service Configuration Service:/var/empty:/usr/bin/false
-_ces:*:32:32:Certificate Enrollment Service:/var/empty:/usr/bin/false
-_mcxalr:*:54:54:MCX AppLaunch:/var/empty:/usr/bin/false
-_appleevents:*:55:55:AppleEvents Daemon:/var/empty:/usr/bin/false
-_geod:*:56:56:Geo Services Daemon:/var/db/geod:/usr/bin/false
-_serialnumberd:*:58:58:Serial Number Daemon:/var/empty:/usr/bin/false
-_devdocs:*:59:59:Developer Documentation:/var/empty:/usr/bin/false
-_sandbox:*:60:60:Seatbelt:/var/empty:/usr/bin/false
-_mdnsresponder:*:65:65:mDNSResponder:/var/empty:/usr/bin/false
-_ard:*:67:67:Apple Remote Desktop:/var/empty:/usr/bin/false
-_www:*:70:70:World Wide Web Server:/Library/WebServer:/usr/bin/false
-_eppc:*:71:71:Apple Events User:/var/empty:/usr/bin/false
-_cvs:*:72:72:CVS Server:/var/empty:/usr/bin/false
-_svn:*:73:73:SVN Server:/var/empty:/usr/bin/false
-_mysql:*:74:74:MySQL Server:/var/empty:/usr/bin/false
-_sshd:*:75:75:sshd Privilege separation:/var/empty:/usr/bin/false
-_qtss:*:76:76:QuickTime Streaming Server:/var/empty:/usr/bin/false
-_cyrus:*:77:6:Cyrus Administrator:/var/imap:/usr/bin/false
-_mailman:*:78:78:Mailman List Server:/var/empty:/usr/bin/false
-_appserver:*:79:79:Application Server:/var/empty:/usr/bin/false
-_clamav:*:82:82:ClamAV Daemon:/var/virusmails:/usr/bin/false
-_amavisd:*:83:83:AMaViS Daemon:/var/virusmails:/usr/bin/false
-_jabber:*:84:84:Jabber XMPP Server:/var/jabberd/ChatHome:/usr/bin/false
-_appowner:*:87:87:Application Owner:/var/empty:/usr/bin/false
-_windowserver:*:88:88:WindowServer:/var/empty:/usr/bin/false
-_spotlight:*:89:89:Spotlight:/var/empty:/usr/bin/false
-_tokend:*:91:91:Token Daemon:/var/empty:/usr/bin/false
-_securityagent:*:92:92:SecurityAgent:/var/empty:/usr/bin/false
-_calendar:*:93:93:Calendar:/var/empty:/usr/bin/false
-_teamsserver:*:94:94:TeamsServer:/var/teamsserver:/usr/bin/false
-_update_sharing:*:95:-2:Update Sharing:/var/empty:/usr/bin/false
-_installer:*:96:-2:Installer:/var/empty:/usr/bin/false
-_atsserver:*:97:97:ATS Server:/var/empty:/usr/bin/false
-_ftp:*:98:-2:FTP Daemon:/var/empty:/usr/bin/false
-_unknown:*:99:99:Unknown User:/var/empty:/usr/bin/false
-_softwareupdate:*:200:200:Software Update Service:/var/empty:/usr/bin/false
-_coreaudiod:*:202:202:Core Audio Daemon:/var/empty:/usr/bin/false
-_screensaver:*:203:203:Screensaver:/var/empty:/usr/bin/false
-_locationd:*:205:205:Location Daemon:/var/db/locationd:/usr/bin/false
-_trustevaluationagent:*:208:208:Trust Evaluation Agent:/var/empty:/usr/bin/false
-_timezone:*:210:210:AutoTimeZoneDaemon:/var/empty:/usr/bin/false
-_lda:*:211:211:Local Delivery Agent:/var/empty:/usr/bin/false
-_cvmsroot:*:212:212:CVMS Root:/var/empty:/usr/bin/false
-_usbmuxd:*:213:213:iPhone OS Device Helper:/var/db/lockdown:/usr/bin/false
-_dovecot:*:214:6:Dovecot Administrator:/var/empty:/usr/bin/false
-_dpaudio:*:215:215:DP Audio:/var/empty:/usr/bin/false
-_postgres:*:216:216:PostgreSQL Server:/var/empty:/usr/bin/false
-_krbtgt:*:217:-2:Kerberos Ticket Granting Ticket:/var/empty:/usr/bin/false
-_kadmin_admin:*:218:-2:Kerberos Admin Service:/var/empty:/usr/bin/false
-_kadmin_changepw:*:219:-2:Kerberos Change Password Service:/var/empty:/usr/bin/false
-_devicemgr:*:220:220:Device Management Server:/var/empty:/usr/bin/false
-_webauthserver:*:221:221:Web Auth Server:/var/empty:/usr/bin/false
-_netbios:*:222:222:NetBIOS:/var/empty:/usr/bin/false
-_warmd:*:224:224:Warm Daemon:/var/empty:/usr/bin/false
-_dovenull:*:227:227:Dovecot Authentication:/var/empty:/usr/bin/false
-_netstatistics:*:228:228:Network Statistics Daemon:/var/empty:/usr/bin/false
-_avbdeviced:*:229:-2:Ethernet AVB Device Daemon:/var/empty:/usr/bin/false
-_krb_krbtgt:*:230:-2:Open Directory Kerberos Ticket Granting Ticket:/var/empty:/usr/bin/false
-_krb_kadmin:*:231:-2:Open Directory Kerberos Admin Service:/var/empty:/usr/bin/false
-_krb_changepw:*:232:-2:Open Directory Kerberos Change Password Service:/var/empty:/usr/bin/false
-_krb_kerberos:*:233:-2:Open Directory Kerberos:/var/empty:/usr/bin/false
-_krb_anonymous:*:234:-2:Open Directory Kerberos Anonymous:/var/empty:/usr/bin/false
-_assetcache:*:235:235:Asset Cache Service:/var/empty:/usr/bin/false
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init]1;..projects/Init[0m[27m[24m[J[01;32m➜  [36mInit[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h6666  sscripts[?1l>[?2004l
-]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../01[?1l>[?2004l
-]2;./01]1;./01##
-# User Database
-# 
-# Note that this file is consulted directly only when the system is running
-# in single-user mode.  At other times this information is provided by
-# Open Directory.
-#
-# See the opendirectoryd(8) man page for additional information about
-# Open Directory.
-##
-nobody:-2:/var/empty
-root:0:/var/root
-daemon:1:/var/root
-_uucp:4:/var/spool/uucp
-_taskgated:13:/var/empty
-_networkd:24:/var/empty
-_installassistant:25:/var/empty
-_lp:26:/var/spool/cups
-_postfix:27:/var/spool/postfix
-_scsd:31:/var/empty
-_ces:32:/var/empty
-_mcxalr:54:/var/empty
-_appleevents:55:/var/empty
-_geod:56:/var/db/geod
-_serialnumberd:58:/var/empty
-_devdocs:59:/var/empty
-_sandbox:60:/var/empty
-_mdnsresponder:65:/var/empty
-_ard:67:/var/empty
-_www:70:/Library/WebServer
-_eppc:71:/var/empty
-_cvs:72:/var/empty
-_svn:73:/var/empty
-_mysql:74:/var/empty
-_sshd:75:/var/empty
-_qtss:76:/var/empty
-_cyrus:77:/var/imap
-_mailman:78:/var/empty
-_appserver:79:/var/empty
-_clamav:82:/var/virusmails
-_amavisd:83:/var/virusmails
-_jabber:84:/var/jabberd/ChatHome
-_appowner:87:/var/empty
-_windowserver:88:/var/empty
-_spotlight:89:/var/empty
-_tokend:91:/var/empty
-_securityagent:92:/var/empty
-_calendar:93:/var/empty
-_teamsserver:94:/var/teamsserver
-_update_sharing:95:/var/empty
-_installer:96:/var/empty
-_atsserver:97:/var/empty
-_ftp:98:/var/empty
-_unknown:99:/var/empty
-_softwareupdate:200:/var/empty
-_coreaudiod:202:/var/empty
-_screensaver:203:/var/empty
-_locationd:205:/var/db/locationd
-_trustevaluationagent:208:/var/empty
-_timezone:210:/var/empty
-_lda:211:/var/empty
-_cvmsroot:212:/var/empty
-_usbmuxd:213:/var/db/lockdown
-_dovecot:214:/var/empty
-_dpaudio:215:/var/empty
-_postgres:216:/var/empty
-_krbtgt:217:/var/empty
-_kadmin_admin:218:/var/empty
-_kadmin_changepw:219:/var/empty
-_devicemgr:220:/var/empty
-_webauthserver:221:/var/empty
-_netbios:222:/var/empty
-_warmd:224:/var/empty
-_dovenull:227:/var/empty
-_netstatistics:228:/var/empty
-_avbdeviced:229:/var/empty
-_krb_krbtgt:230:/var/empty
-_krb_kadmin:231:/var/empty
-_krb_changepw:232:/var/empty
-_krb_kerberos:233:/var/empty
-_krb_anonymous:234:/var/empty
-_assetcache:235:/var/empty
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                                                                                        ]2;dguy-caz@e2r6p13: ~/42projects/Init/scripts]1;../Init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmman cron[?1l>[?2004l
-]2;man cron]1;man[?1049h[?1h=[m
-CRON(8)                   BSD System Manager's Manual                  CRON(8)[m
-[m
-[1mNAME[0m[m
-     [1mcron[0m -- daemon to execute scheduled commands (Vixie Cron)[m
-[m
-[1mSYNOPSIS[0m[m
-     [1mcron[0m [[1m-s[0m] [[1m-o[0m] [[1m-x[0m [4mdebugflag[24m[,[4m...[24m]][m
-[m
-[1mDESCRIPTION[0m[m
-     The [1mcron[0m utility is launched by launchd(8) when it sees the existence of [4m/etc/crontab[24m or files in [4m/usr/lib/cron/tabs[24m.  There should be no need to[m
-     start it manually.  See [4m/System/Library/LaunchDaemons/com.vix.cron.plist[24m for details.[m
-[m
-     The [1mcron[0m utility searches [4m/usr/lib/cron/tabs[24m for crontab files which are named after accounts in [4m/etc/passwd[24m; crontabs found are loaded into mem-[m
-     ory.  The [1mcron[0m utility also searches for [4m/etc/crontab[24m which is in a different format (see crontab(5)).[m
-[m
-     The [1mcron[0m utility then wakes up every minute, examining all stored crontabs, checking each command to see if it should be run in the current[m
-     minute.  When executing commands, any output is mailed to the owner of the crontab (or to the user named in the MAILTO environment variable in the[m
-     crontab, if such exists).[m
-[m
-     Additionally, [1mcron[0m checks each minute to see if its spool directory's modification time (or the modification time on [4m/etc/crontab[24m) has changed,[m
-     and if it has, [1mcron[0m will then examine the modification time on all crontabs and reload those which have changed.  Thus [1mcron[0m need not be restarted[m
-     whenever a crontab file is modified.  Note that the crontab(1) command updates the modification time of the spool directory whenever it changes a[m
-     crontab.[m
-[m
-     Available options:[m
-[m
-     [1m-s[0m      Enable special handling of situations when the GMT offset of the local timezone changes, such as the switches between the standard time[m
-             and daylight saving time.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K             The jobs run during the GMT offset changes time as intuitively expected.  If a job falls into a time interval that disappears (for exam-[m
-:[K[K [KESCESC[KOO[KBB[K             ple, during the switch from standard time) to daylight saving time or is duplicated (for example, during the reverse switch), then it is[m
-:[K[K [KESCESC[KOO[KBB[K             handled in one of two ways:[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K             The first case is for the jobs that run every at hour of a time interval overlapping with the disappearing or duplicated interval.  In[m
-:[K[K [KESCESC[KOO[KBB[K             other words, if the job had run within one hour before the GMT offset change (and cron was not restarted nor the crontab(5) changed after[m
-:[K[K [KESCESC[KOO[KBB[K             that) or would run after the change at the next hour.  They work as always, skip the skipped time or run in the added time as usual.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K             The second case is for the jobs that run less frequently.  They are executed exactly once, they are not skipped nor executed twice (unless[m
-:[K[K [KESCESC[KOO[KBB[K             cron is restarted or the user's crontab(5) is changed during such a time interval).  If an interval disappears due to the GMT offset[m
-:[K[K [KESCESC[KOO[KBB[K             change, such jobs are executed at the same absolute point of time as they would be in the old time zone.  For example, if exactly one hour[m
-:[K[K [KESCESC[KOO[KBB[K             disappears, this point would be during the next hour at the first minute that is specified for them in crontab(5).[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-o[0m      Disable the special handling of situations when the GMT offset of the local timezone changes, to be compatible with the old (default)[m
-:[K[K [KESCESC[KOO[KBB[K             behavior.  If both options [1m-o[0m and [1m-s[0m are specified, the option specified last wins.[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K     [1m-x[0m [4mdebugflag[24m[,[4m...[24m][m
-:[K[K [KESCESC[KOO[KBB[K             Enable writing of debugging information to standard output.  One or more of the following comma separated [4mdebugflag[24m identifiers must be[m
-:[K[K [KESCESC[KOO[KBB[K             specified:[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K             [1mbit[0m   currently not used[m
-:[K[K [KESCESC[KOO[KBB[K             [1mext[0m   make the other debug flags more verbose[m
-:[K[K [KESCESC[KOO[KBB[K             [1mload[0m  be verbose when loading crontab files[m
-:[K[K [KESCESC[KOO[KBB[K             [1mmisc[0m  be verbose about miscellaneous one-off events[m
-:[K[K [KESCESC[KOO[KBB[K             [1mpars[0m  be verbose about parsing individual crontab lines[m
-:[K[K [KESCESC[KOO[KBB[K             [1mproc[0m  be verbose about the state of the process, including all of its offspring[m
-:[K[K [KESCESC[KOO[KBB[K             [1msch[0m   be verbose when iterating through the scheduling algorithms[m
-:[K[K [KESCESC[KOO[KBB[K             [1mtest[0m  trace through the execution, but do not perform any actions[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mFILES[0m[m
-:[K[K [KESCESC[KOO[KBB[K     /usr/lib/cron/tabs  Directory for personal crontab files[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
-:[K[K [KESCESC[KOO[KBB[K     crontab(1), launchctl(1), crontab(5), launchd.plist(5), launchd(8)[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[K[1mAUTHORS[0m[m
-:[K[K [KESCESC[KOO[KBB[K     Paul Vixie <paul@vix.com>[m
-:[K[K [KESCESC[KOO[KBB[K[m
-:[K[K [KESCESC[KOO[KBB[KBSD                              June 17, 2007                             BSD[m
-:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM             cron is restarted or the user's crontab(5) is changed during such a time interval).  If an interval disappears due to the GMT offset[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             The second case is for the jobs that run less frequently.  They are executed exactly once, they are not skipped nor executed twice (unless[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             that) or would run after the change at the next hour.  They work as always, skip the skipped time or run in the added time as usual.[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             other words, if the job had run within one hour before the GMT offset change (and cron was not restarted nor the crontab(5) changed after[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             The first case is for the jobs that run every at hour of a time interval overlapping with the disappearing or duplicated interval.  In[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             handled in one of two ways:[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             ple, during the switch from standard time) to daylight saving time or is duplicated (for example, during the reverse switch), then it is[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             The jobs run during the GMT offset changes time as intuitively expected.  If a job falls into a time interval that disappears (for exam-[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM             and daylight saving time.[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     [1m-s[0m      Enable special handling of situations when the GMT offset of the local timezone changes, such as the switches between the standard time[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     Available options:[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     crontab.[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     whenever a crontab file is modified.  Note that the crontab(1) command updates the modification time of the spool directory whenever it changes a[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     and if it has, [1mcron[0m will then examine the modification time on all crontabs and reload those which have changed.  Thus [1mcron[0m need not be restarted[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     Additionally, [1mcron[0m checks each minute to see if its spool directory's modification time (or the modification time on [4m/etc/crontab[24m) has changed,[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     crontab, if such exists).[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     minute.  When executing commands, any output is mailed to the owner of the crontab (or to the user named in the MAILTO environment variable in the[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     The [1mcron[0m utility then wakes up every minute, examining all stored crontabs, checking each command to see if it should be run in the current[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     ory.  The [1mcron[0m utility also searches for [4m/etc/crontab[24m which is in a different format (see crontab(5)).[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     The [1mcron[0m utility searches [4m/usr/lib/cron/tabs[24m for crontab files which are named after accounts in [4m/etc/passwd[24m; crontabs found are loaded into mem-[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     start it manually.  See [4m/System/Library/LaunchDaemons/com.vix.cron.plist[24m for details.[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     The [1mcron[0m utility is launched by launchd(8) when it sees the existence of [4m/etc/crontab[24m or files in [4m/usr/lib/cron/tabs[24m.  There should be no need to[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     [1mcron[0m [[1m-s[0m] [[1m-o[0m] [[1m-x[0m [4mdebugflag[24m[,[4m...[24m]][m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM     [1mcron[0m -- daemon to execute scheduled commands (Vixie Cron)[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HMCRON(8)                   BSD System Manager's Manual                  CRON(8)[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
-[30;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K
