@@ -1,0 +1,13 @@
+#!/bin/bash
+
+CRONPATH=/var/spool/cron/crontabs
+
+if [[$(md5sum ~/crontab_backup | cut -d ' ' -f1) != $(md5sum $CRONPATH/root | cut -d ' ' -f1)]]
+then
+	md5sum $CRONPATH/root | cut -d ' ' -f1 > ~/crontab_backup
+    mail -s "/etc/crontab file was modified" root@localhost < $CRONPATH/root
+fi
+
+
+#edit the crontab (crontab -e) with: 
+#0 0 * * 0  sh ~/check_crontab_changes.sh
