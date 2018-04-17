@@ -1,11 +1,13 @@
 #!/bin/bash
 
-CRONPATH=/var/spool/cron/crontabs
+CRONPATH=/var/spool/cron/crontabs/root
+BACKUP=`cat ~/crontab_backup`
+MDRES=`md5sum /var/spool/cron/crontabs/root | cut -d ' ' -f1`
 
-if [[$(md5sum ~/crontab_backup | cut -d ' ' -f1) != $(md5sum $CRONPATH/root | cut -d ' ' -f1)]]
+if [ $BACKUP != $MDRES ]
 then
-	md5sum $CRONPATH/root | cut -d ' ' -f1 > ~/crontab_backup
-    mail -s "/etc/crontab file was modified" root@localhost < $CRONPATH/root
+	md5sum $CRONPATH | cut -d ' ' -f1 > ~/crontab_backup
+    mail -s "/var/spool/cron/crontabs/root file was modified" root@localhost < $CRONPATH
 fi
 
 
